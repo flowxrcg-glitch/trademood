@@ -3,4 +3,5 @@ yfinance
 pandas
 pandas-datareader
 plotly
+setuptools
 streamlit-autorefresh
