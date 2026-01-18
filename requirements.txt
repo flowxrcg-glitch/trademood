@@ -5,3 +5,5 @@ pandas-datareader
 plotly
 setuptools
 streamlit-autorefresh
+streamlit-authenticator
+PyYAML
